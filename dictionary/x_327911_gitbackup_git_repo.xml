@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Git Repo" max_length="40" name="x_327911_gitbackup_git_repo" type="collection"/>
+</database>
